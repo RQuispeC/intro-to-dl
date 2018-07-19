@@ -13,6 +13,7 @@ imagelabels.mat
 lfw-deepfunneled.tgz
 lfw.tgz
 lfw_attributes.txt
+autoencoder.*.hdf5
 
 # week6
 captions_train-val2014.zip
